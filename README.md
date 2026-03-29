@@ -68,8 +68,23 @@ $$V = \frac{ADC_{value} \times 3.3}{4096}$$
 **Що це дає проєкту:**
 - Використання переривань гарантує, що керування світлодіодом (реакція на зміну напруги) відбуватиметься миттєво, не заважаючи іншим процесам у системі.
 
-<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/2c9a919b-fceb-4996-b51c-a70bc09bffb1" />
-<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/729dc94f-1258-40b7-b3b1-390f9bf2b4aa" />
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c9a919b-fceb-4996-b51c-a70bc09bffb1" width="90%" />
+  <br>
+  <b><i>Рис 1.Параметри модуля ADC1 (Scanning & Resolution)</i></b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/729dc94f-1258-40b7-b3b1-390f9bf2b4aa" width="90%" />
+  <br>
+  <b><i>Рис 2. Активація переривань АЦП (ADC Global Interrupt)</i></b>
+</p>
+
+<br>
+
 
 
 ---
